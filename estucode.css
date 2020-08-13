@@ -3806,6 +3806,7 @@ kbd kbd {
 }
 
 pre {
+  white-space: pre-wrap;
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
